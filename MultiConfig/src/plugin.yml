@@ -1,0 +1,4 @@
+main: kestrel.multiconfig.main.MultiConfig
+name: MultiConfig
+version: 1.0
+author: AceOfKestrels
